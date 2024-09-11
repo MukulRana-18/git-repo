@@ -1,4 +1,4 @@
 # git-repo
 author-Mukul Rana
 <br>
-author-amit
+author-amit rana
